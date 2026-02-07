@@ -56,4 +56,5 @@ elif path_choice == "green":
             What could go wrong? you fly the bag to canada and it explodes. better luck next time.""")
 else:
     print("Invalid choice. Please select either 'red' or 'blue' or 'green'.")
+    #wheeeeeee
     
